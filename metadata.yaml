@@ -1,0 +1,33 @@
+_repo: My-Country_45976
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45976-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marie, Queen, consort of Ferdinand I, King of Romania
+    aliases:
+    - Missy, Queen, consort of Ferdinand I, King of Romania
+    - Marie, Queen of Rumania
+    - Maria, Queen, consort of Ferdinand I, King of Romania
+    birthdate: 1875
+    deathdate: 1938
+    gutenberg_agent_id: '40911'
+    url: http://www.gutenberg.org/2009/agents/40911
+    wikipedia: http://en.wikipedia.org/wiki/Marie_of_Edinburgh
+description: ''
+gutenberg_issued: '2014-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45976'
+  lccn: '17012256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Romania -- Social life and customs'
+- !lcsh 'Romania -- Description and travel'
+title: My Country
+url: http://www.gutenberg.org/ebooks/45976
